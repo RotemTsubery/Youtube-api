@@ -3,7 +3,6 @@ import Search from './components/Search';
 import youtube from './api/youtube';
 import VideoList from './components/VideoList';
 import VideoDetail from './components/VideoDetail';
-import './App.css';
 
 class App extends React.Component {
     state = {
